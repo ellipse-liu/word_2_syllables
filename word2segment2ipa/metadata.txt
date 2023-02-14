@@ -1,0 +1,4 @@
+max_encoder_len: 	20
+max_decoder_len: 	31
+num_encoder_vocab: 	27
+num_decoder_vocab: 	30
